@@ -29,7 +29,7 @@ The lastest version of the provider supports v4 by default. See example below fo
 module.exports = ({ env }) => ({
   upload: {
     config: {
-      provider: 'qiniu',
+      provider: 'provider-upload-qiniu-cloud', // full package name is required
       providerOptions: {
         accessKey: env('ACCESS_KEY', ''),
         secretKey: env('SECRET_KEY', ''),
