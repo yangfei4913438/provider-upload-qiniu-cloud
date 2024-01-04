@@ -1,6 +1,6 @@
 {
   "name": "provider-upload-qiniu-cloud",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A provider for strapi server to upload file to Qiniu Cloud",
   "homepage": "https://github.com/yangfei4913438/provider-upload-qiniu-cloud",
   "directories": {
